@@ -2,7 +2,7 @@
 
 ** Poised does the engineering needed to ensure the structural integrity of various buildings.
 
-*This is a java program that the company will be used to keep track of the many projects on which they work on.
+*This is a java program that the company will use to keep track of the many projects on which they work on.
 *The user will register and store new project information, including the Customers, Architect's and Contractor details.
 *The program is designed to be used by Poised secretary or someone who will be assigned to enter new projects information.
 *The goal is to keep track of every project registered.
