@@ -9,9 +9,6 @@
 
 *For every project there's a Customer, Architect and Contractor.
 *Before hand, the user has to choose from a menu, to continue.
-    ----------------------------------------------------------------
-          POISED PROJECT
-    ----------------------------------------------------------------
 
     OPTIONS: 
 
