@@ -31,7 +31,7 @@
 
 *Option 1, all the registered projects will be displayed.
 
-*Option 2, Register?Capture new Project, Customer, Architect and Contractor.
+*Option 2, Register/Capture new Project, Customer, Architect and Contractor.
 
 *Option 3, Choose form Update Project menu which Information(Project, Customer, Architect or Contractor) you want to update.
 
